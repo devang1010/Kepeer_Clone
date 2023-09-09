@@ -5,8 +5,8 @@ function Footer(){
     let year = day.getFullYear();
     console.log(day)
     return (<footer>
-        <p>Copyright {year}</p> 
-        <h1>Hello</h1></footer>
+        <p>Copyright © {year}</p> 
+    </footer>
     )
 }
 
