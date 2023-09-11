@@ -34,6 +34,10 @@ footer {
 
 footer p {
   color: #ccc;
+  transition: 0.5s;
+}
+footer p:hover{
+  color: black;
 }
 .note {
   background: #fff;
